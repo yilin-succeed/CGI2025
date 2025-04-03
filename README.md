@@ -1,4 +1,4 @@
-### AMNet: Attention-Enhanced Multi-Branch Network for Micro-Expression Recognition
+# AMNet: Attention-Enhanced Multi-Branch Network for Micro-Expression Recognition
 ## Submission to CGI 2025 (The Visual Computer Journal)
 
 This repository contains the implementation of AMNet, a novel attention-enhanced multi-branch network designed for micro-expression recognition (MER). AMNet addresses the challenges of subtle, short-duration micro-expressions by integrating advanced attention mechanisms, spatiotemporal modeling, and hierarchical feature fusion. The code is developed to support experiments on benchmark datasets such as CASME II, SAMM, SMIC, and CAS(ME)³, achieving state-of-the-art performance as detailed in our paper.
